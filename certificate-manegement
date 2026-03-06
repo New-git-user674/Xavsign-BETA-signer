@@ -1,0 +1,9 @@
+import Foundation
+
+class CertificateManager {
+
+    func importCertificate(url: URL) {
+        print("Imported certificate: \(url)")
+    }
+
+}
